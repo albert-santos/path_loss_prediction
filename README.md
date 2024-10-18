@@ -100,7 +100,7 @@ Este projeto faz uso de uma série de ferramentas e bibliotecas que auxiliam na 
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Para mais detalhes consulte o arquivo  [![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/albert-santos/path_loss_prediction/blob/main/LICENSE)
+Este projeto está licenciado sob a Licença MIT. Para mais detalhes consulte o arquivo  [![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/albert-santos/path_loss_prediction/blob/main/LICENSE.txt)
 
 
 
