@@ -81,7 +81,7 @@ Dentro de cada diretório de análise:
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seuprojeto.git
+   git clone https://github.com/albert-santos/path_loss_prediction.git
 
 2. Instale as dependências necessárias:
     ```bash

@@ -6,3 +6,4 @@ python                    3.11.5               he1021f5_0
 scikit-learn              1.4.1.post1              pypi_0    pypi
 scipy                     1.11.4                   pypi_0    pypi
 sweetviz                  2.3.1                    pypi_0    pypi
+
