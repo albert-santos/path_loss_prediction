@@ -107,7 +107,7 @@ Este projeto faz uso de uma série de ferramentas e bibliotecas que auxiliam na 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/albert-santos">
+      <a href="https://github.com/albert-santos" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/53947487?v=4" width="100px;" alt="Albert dos Santos Profile Picture"/><br>
         <sub>
           <b>Albert dos Santos</b>
@@ -115,7 +115,7 @@ Este projeto faz uso de uma série de ferramentas e bibliotecas que auxiliam na 
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/igorfalcao">
+      <a href="https://github.com/igorfalcao" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/16638962?v=4" width="100px;" alt="Igor Falcão"/><br>
         <sub>
           <b>Igor Falcão</b>
@@ -124,6 +124,7 @@ Este projeto faz uso de uma série de ferramentas e bibliotecas que auxiliam na 
     </td>
   </tr>
 </table>
+
 
 ## Licença
 
