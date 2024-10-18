@@ -43,7 +43,13 @@ Entre esses, o modelo `Random Forest` obteve o melhor desempenho. Sua habilidade
 
 Abaixo está uma visualização comparativa entre os valores de potência recebida previstos pelo modelo Random Forest e os valores reais medidos. O gráfico à direita ilustra como o modelo acompanha os valores medidos em função da distância, enquanto os medidores à esquerda mostram a potência exata prevista versus a potência real medida em um determinado ponto.
 
-<p align="center"> <img width= 80% src="Visualization/received_power_predict.gif"> </p>
+<br>
+
+<div style="width: 80%; border-radius: 15px; overflow: hidden; margin: 0 auto;">
+  <img src="Visualization/received_power_predict.gif" style="width: 100%;">
+</div>
+
+<br>
 
 Essa comparação visual permite identificar facilmente a precisão do modelo na tarefa de previsão de potência recebida em um ambiente indoor.
 
@@ -97,6 +103,27 @@ Este projeto faz uso de uma série de ferramentas e bibliotecas que auxiliam na 
 - **Git**: Controle de versão utilizado para gerenciar o desenvolvimento do projeto de forma colaborativa e organizada.
 
 ## Contribuições
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/albert-santos">
+        <img src="https://avatars.githubusercontent.com/u/53947487?v=4" width="100px;" alt="Albert dos Santos Profile Picture"/><br>
+        <sub>
+          <b>Albert dos Santos</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/igorfalcao">
+        <img src="https://avatars.githubusercontent.com/u/16638962?v=4" width="100px;" alt="Igor Falcão"/><br>
+        <sub>
+          <b>Igor Falcão</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Licença
 
